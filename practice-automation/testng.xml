@@ -1,12 +1,8 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="SkillUpTestSuite" verbose="1">
-    <test name="SignUpTest">
-        <classes>
-            <class name="testpages.SignUpTest"/>
-        </classes>
-    </test>
+<suite name="SkillUpTestSuite" verbose="3">
     <test name="LoginTest">
         <classes>
+            <class name="testpages.SignUpTest"/>
             <class name="testpages.LoginTest"/>
         </classes>
     </test>

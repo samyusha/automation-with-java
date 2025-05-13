@@ -20,4 +20,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/test/resources/TestAutomationSample.xlsx</name>
+			<type>1</type>
+			<location>D:/OneDrive - Flexible Road LLC/Desktop/Test cases/TestAutomationSample.xlsx</location>
+		</link>
+	</linkedResources>
 </projectDescription>
